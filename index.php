@@ -1,5 +1,5 @@
 <?php
-require('includes/header.php')
+require(__DIR__.'/includes/header.php')
 ?>
 <nav class="navbar bg-dark navbar-dark " id="navbar">
     <div>
@@ -64,4 +64,7 @@ require('includes/header.php')
     <hr>
 </div>
 
-<?php  include_once ('includes/footer.php') ?>
+<?php
+include_once (__DIR__.'/includes/footer.php')
+
+?>
