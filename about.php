@@ -5,7 +5,7 @@
 <!--Header-->
 <nav class="navbar bg-dark navbar-dark " id="navbar">
     <div>
-        <h1 class="am"><a class="navbar-brand amar" href="index.php" style="">AMAR SYLL</a></h1>
+        <h1 class="am"><a class="navbar-brand amar " href="index.php" style="">AMAR SYLL</a></h1>
     </div>
     <div class="collapse navbar-collapse d-flex justify-content-end mr-3" id="navbarNav">
         <h3 class=""><a class="nav-link " href="index.php">Home</a></h3>
@@ -18,7 +18,7 @@
 <!--Body-->
 <div class="container mb-4">
     <div class="row  d-flex justify-content-center">
-        <div class="col-8 d-flex justify-content-center mt-3 ">
+        <div class="col-8 d-flex justify-content-center mt-4 ">
             <img alt="amar" class="img-fluid img-amar" src="assets/img/developpeur-full-stack.jpg">
         </div>
         <div class="col-8">
