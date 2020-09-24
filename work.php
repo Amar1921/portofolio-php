@@ -23,33 +23,33 @@ require(__DIR__.'/includes/header.php')
     </div>
     <div class="row my-5 centered">
         <div class="col-lg-4 text-center">
-            <a class="zoom green" href="components/javascript.html"><img class="img-responsive img-thumbnail" src="assets/img/javascript/weather-1.png" alt="" /></a>
+            <a class="zoom green" href="components/javascript.html"><img class="img-responsive img img-thumbnail" src="assets/img/javascript/weather-1.png" alt="" /></a>
             <h3><a href="components/javascript.html" style="color: black" >JavaScript</a></h3>
         </div>
         <div class="col-lg-4 text-center">
-            <a class="zoom green" href="components/reactjs.html"><img class="img-responsive img-thumbnail" src="assets/img/reactjs/react-1.jpg" alt="" /></a>
+            <a class="zoom green" href="components/reactjs.html"><img class="img-responsive img img-thumbnail" src="assets/img/reactjs/react-1.jpg" alt="" /></a>
             <h3><a href="components/reactjs.html" style="color: black" >ReactJs</a></h3>
         </div>
         <div class="col-lg-4 text-center">
-            <a class="zoom green" href="components/phpmysql.html"><img class="img-responsive img-thumbnail" src="assets/img/php_mysql/php1.png" alt="" /></a>
+            <a class="zoom green" href="components/phpmysql.html"><img class="img-responsive img img-thumbnail" src="assets/img/php_mysql/php1.png" alt="" /></a>
             <h3><a href="components/phpmysql.html" style="color: black">PHP/MySQL</a></h3>
         </div>
     </div><!-- /row -->
     <div class="row mt centered">
         <div class="col-lg-4 text-center">
-            <a class="zoom green" href="components/nodejs.html"><img class="img-responsive img-thumbnail" src="assets/img/nodejs/nodejs-1.png" alt="" /></a>
+            <a class="zoom green" href="components/nodejs.html"><img class="img-responsive img img-thumbnail" src="assets/img/nodejs/nodejs-1.png" alt="" /></a>
             <h3>
                 <a href="components/nodejs.html" style="color:#000;">NodeJs</a>
             </h3>
         </div>
         <div class="col-lg-4 text-center">
-            <a class="zoom green" href="components/wordpress.html"><img class="img-responsive img-thumbnail" src="assets/img/wordpress/wordpress.png" alt="" /></a>
+            <a class="zoom green" href="components/wordpress.html"><img class="img-responsive img img-thumbnail" src="assets/img/wordpress/wordpress.png" alt="" /></a>
            <h3>
                <a href="components/wordpress.html" style="color: black">Wordpress</a>
            </h3>
         </div>
         <div class="col-lg-4 text-center">
-            <a class="zoom green" href="components/react-2.html"><img class="img-responsive img-thumbnail" src="assets/img/reactjs/react01.png" alt="" /></a>
+            <a class="zoom green" href="components/react-2.html"><img class="img-responsive img img-thumbnail" src="assets/img/reactjs/react01.png" alt="" /></a>
             <h3><a href="components/react-2.html" style="color: black" >ReactJs</a></h3>
         </div>
     </div><!-- /row -->

@@ -174,3 +174,14 @@ input {
     color: #fff;
     padding: 0 25px;
 }
+.img:hover{
+    transform: translateY(5px);
+    -webkit-box-shadow: 6px -5px 41px 5px rgba(194,196,174,1);
+    -moz-box-shadow: 6px -5px 41px 5px rgba(194,196,174,1);
+    box-shadow: 6px -5px 41px 5px rgba(194,196,174,1);
+}
+.img{
+    -webkit-box-shadow: 6px -5px 19px 5px rgba(220,227,154,1);
+    -moz-box-shadow: 6px -5px 19px 5px rgba(220,227,154,1);
+    box-shadow: 6px -5px 19px 5px rgba(220,227,154,1);
+}
